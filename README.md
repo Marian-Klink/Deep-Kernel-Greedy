@@ -31,3 +31,6 @@ To execute the code, one can proceed as follows:
 To reproduce/analyze the paper plots, the ...Result_Files folder contains .npy files corresponding to the fitted models. These .npy files can simply be loaded in the ..._valuate.py files to recreate the evaluation data. 
 Further, these folders also contain excel sheets listing cross-validation scores of all validated architectures and .txt files specifying the final models after cross-validation. The plots are created in the corresponding 
 .ipynb notebooks.
+
+## Citation
+If you use this code or want to cite this repository, please cite the paper.
